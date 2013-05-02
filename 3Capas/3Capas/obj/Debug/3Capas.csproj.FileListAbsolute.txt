@@ -1,0 +1,5 @@
+C:\Users\gonzalo\Documents\Visual Studio 2010\Projects\3Capas\3Capas\bin\3Capas.dll
+C:\Users\gonzalo\Documents\Visual Studio 2010\Projects\3Capas\3Capas\bin\3Capas.pdb
+C:\Users\gonzalo\Documents\Visual Studio 2010\Projects\3Capas\3Capas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gonzalo\Documents\Visual Studio 2010\Projects\3Capas\3Capas\obj\Debug\3Capas.dll
+C:\Users\gonzalo\Documents\Visual Studio 2010\Projects\3Capas\3Capas\obj\Debug\3Capas.pdb
